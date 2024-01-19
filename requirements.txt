@@ -1,4 +1,6 @@
 pandas
+feather-format
+pyarrow
 notebook
 nltk
 fastapi
